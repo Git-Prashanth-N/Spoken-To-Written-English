@@ -14,9 +14,9 @@ setup(
       version='0.1',
       license=open('LICENSE.txt').read(),
       description='Convert Spoken English given as text to Written English ',
-      author='Vishal Dhiman',
-      author_email='cse_vishal@hotmail.com',
-      url='https://github.com/cyberdhiman/Spoken-To-Written-English',
+      author='Prashanth Noothi',
+      author_email='noothiprashanth@mail.com',
+      url='https://github.com/Git-Prashanth-N/Spoken-To-Written-English',
       classifiers = [
      					 'Intended Audience :: Developers',
       					'Programming Language :: Python'
